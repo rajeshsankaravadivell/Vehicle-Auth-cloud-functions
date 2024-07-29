@@ -1,0 +1,19 @@
+{
+  "name": "vehicle/TN5389282/license",
+  "bucket": "vehicle-authenticator-4ecd1.appspot.com",
+  "metageneration": 1,
+  "generation": 1721825583354,
+  "contentType": "application/octet-stream",
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "downloadTokens": [
+    "32516b0c-ff01-44f3-b302-f71ce39c564f"
+  ],
+  "etag": "q6L6U6SSm4Tf+aHewAnCPUgj83g",
+  "customMetadata": {},
+  "timeCreated": "2024-07-24T12:53:03.354Z",
+  "updated": "2024-07-24T12:53:03.354Z",
+  "size": 5672,
+  "md5Hash": "bqZruhU5hhLfcbkEVvhH7w==",
+  "crc32c": "2830100293"
+}

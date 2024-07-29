@@ -1,0 +1,19 @@
+{
+  "name": "fggd/image",
+  "bucket": "vehicle-authenticator-4ecd1.appspot.com",
+  "metageneration": 1,
+  "generation": 1721816019498,
+  "contentType": "application/octet-stream",
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "downloadTokens": [
+    "2f88d1a9-9688-4de6-a0f8-563ab60b4d20"
+  ],
+  "etag": "uwbWwY76zCP5GguoPGraQO5QE7Y",
+  "customMetadata": {},
+  "timeCreated": "2024-07-24T10:13:39.498Z",
+  "updated": "2024-07-24T10:13:39.498Z",
+  "size": 503237,
+  "md5Hash": "ZHp8fwq5J9fRUIPR5Spgxg==",
+  "crc32c": "858315420"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "vehicle/TN69BB9128/license",
+  "bucket": "vehicle-authenticator-4ecd1.appspot.com",
+  "metageneration": 1,
+  "generation": 1721821596031,
+  "contentType": "application/octet-stream",
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "downloadTokens": [
+    "4419dfb2-5490-4e46-aae5-5c1ad20595dd"
+  ],
+  "etag": "NWKLB0U/u92QKA9aTqN+Wsr+qyo",
+  "customMetadata": {},
+  "timeCreated": "2024-07-24T11:46:36.031Z",
+  "updated": "2024-07-24T11:46:36.031Z",
+  "size": 3344022,
+  "md5Hash": "lQxm6YzNx1RVJRbnWM+fMg==",
+  "crc32c": "1218815163"
+}

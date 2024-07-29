@@ -1,0 +1,19 @@
+{
+  "name": "vehicle/TN69BB9128/image",
+  "bucket": "vehicle-authenticator-4ecd1.appspot.com",
+  "metageneration": 1,
+  "generation": 1721821595800,
+  "contentType": "application/octet-stream",
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "downloadTokens": [
+    "6ca78b26-6ba5-4d82-bd9a-df258a284e01"
+  ],
+  "etag": "aMiOviouqr8pg+cZKTCqkVLB+fU",
+  "customMetadata": {},
+  "timeCreated": "2024-07-24T11:46:35.800Z",
+  "updated": "2024-07-24T11:46:35.800Z",
+  "size": 1884197,
+  "md5Hash": "lFc2Z8aE22R2zTPswY8t7w==",
+  "crc32c": "1321931117"
+}

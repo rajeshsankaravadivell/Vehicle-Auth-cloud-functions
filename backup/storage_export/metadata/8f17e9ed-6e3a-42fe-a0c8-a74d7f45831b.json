@@ -1,0 +1,19 @@
+{
+  "name": "vehicle/TN55363535/rcbook",
+  "bucket": "vehicle-authenticator-4ecd1.appspot.com",
+  "metageneration": 1,
+  "generation": 1721827236476,
+  "contentType": "application/octet-stream",
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "downloadTokens": [
+    "bdd37ed0-59f4-4b25-a0ab-01232356b46b"
+  ],
+  "etag": "+u1Nay6L3k2PWYJrW6pJRAI3cNA",
+  "customMetadata": {},
+  "timeCreated": "2024-07-24T13:20:36.476Z",
+  "updated": "2024-07-24T13:20:36.476Z",
+  "size": 99651,
+  "md5Hash": "FwPOFao40ike8g6SAqJOiw==",
+  "crc32c": "1194078028"
+}
